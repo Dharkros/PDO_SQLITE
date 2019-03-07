@@ -1,5 +1,5 @@
 <?php
-  //Estableser conexion
+  //Establecer conexion
 
   $cnx = new PDO ("sqlite:midb.db");
   
